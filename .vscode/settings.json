@@ -1,0 +1,13 @@
+{
+    "editor.formatOnSave": true,
+    "python.autoComplete.extraPaths": [
+        "/home/leon/test_ws/devel/lib/python3/dist-packages",
+        "/home/leon/Universidad/Practicas_Amp_Robotica/practica_ws/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/leon/test_ws/devel/lib/python3/dist-packages",
+        "/home/leon/Universidad/Practicas_Amp_Robotica/practica_ws/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages"
+    ]
+}

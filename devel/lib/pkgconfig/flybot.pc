@@ -1,0 +1,8 @@
+prefix=/home/leon/test_ws/devel
+
+Name: flybot
+Description: Description of flybot
+Version: 0.3.5
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

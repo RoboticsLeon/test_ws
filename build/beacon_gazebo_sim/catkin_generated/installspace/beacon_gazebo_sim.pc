@@ -1,0 +1,8 @@
+prefix=/home/leon/test_ws/install
+
+Name: beacon_gazebo_sim
+Description: Description of beacon_gazebo_sim
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: 
